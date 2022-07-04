@@ -1,7 +1,7 @@
 [
   {
-    "_id": "62c2d503dc4fe744c583385a",
-    "gitBranchName": "master",
+    "_id": "62c2d85a62219628d47627f6",
+    "gitBranchName": "master1",
     "id": "nzZNSXkPwOPpQ079N-3qq",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
@@ -21,7 +21,7 @@
         }
       ]
     },
-    "createdAt": "2022-07-04T11:57:38.782Z",
+    "createdAt": "2022-07-04T12:08:58.028Z",
     "createdBy": "areeb",
     "events": [],
     "layout": [
@@ -67,7 +67,42 @@
           {
             "type": "column",
             "id": "6KkljXia8K_8-wP9StSW1",
-            "gridProps": [],
+            "gridProps": [
+              {
+                "id": "WZsBmwQi6pcNoeKAMEx9Y",
+                "status": "ACTIVE",
+                "name": "Label",
+                "attributes": {
+                  "label": "one",
+                  "variant": "body1",
+                  "name": "Label",
+                  "mandatory": false,
+                  "layoutProperties": {
+                    "label": {
+                      "//": "Use this class to style label component."
+                    },
+                    "mainContainer": "label",
+                    "xl": 12,
+                    "lg": 12,
+                    "md": 12,
+                    "sm": 12,
+                    "xs": 12
+                  }
+                },
+                "icon": "FaFont",
+                "group": "Form",
+                "type": "20002",
+                "updatedAt": "23-Aug-2021",
+                "createdAt": "23-Aug-2021",
+                "order": 15,
+                "version": "1.0.0",
+                "isLatest": true,
+                "projectType": "web",
+                "component": { "content": "Label", "type": "20002" },
+                "events": [],
+                "path": "0-0-0"
+              }
+            ],
             "layoutProperties": {
               "xl": 12,
               "lg": 12,
@@ -81,21 +116,34 @@
         "layoutProperties": { "lg": 12, "md": 12, "sm": 12, "xs": 12 }
       }
     ],
-    "name": "Screen master",
+    "name": "Screen one",
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "screen",
     "type": "10001",
-    "updatedAt": "2022-07-04T11:57:38.782Z",
+    "updatedAt": "2022-07-04T12:11:21.545Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
   {
-    "_id": "62c2d503dc4fe744c583385b",
-    "gitBranchName": "master",
+    "_id": "62c2d85a62219628d47627f7",
+    "gitBranchName": "master1",
     "id": "5VEGZYLHJ8zc5XHmGokxl",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
-      "gridProps": [],
+      "gridProps": [
+        {
+          "layoutProperties": {
+            "xl": 12,
+            "lg": 12,
+            "md": 12,
+            "sm": 12,
+            "xs": 12
+          },
+          "componentId": "WZsBmwQi6pcNoeKAMEx9Y",
+          "componentType": "20002",
+          "order": 1
+        }
+      ],
       "label": "Header",
       "layoutProperties": {
         "gridLayout": {
@@ -113,7 +161,7 @@
       "direction": "row",
       "name": "Grid layout"
     },
-    "createdAt": "2022-07-04T11:57:38.782Z",
+    "createdAt": "2022-07-04T12:08:58.028Z",
     "createdBy": "areeb",
     "events": [],
     "layout": null,
@@ -121,7 +169,40 @@
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "component",
     "type": "10001",
-    "updatedAt": "2022-07-04T11:57:38.782Z",
+    "updatedAt": "2022-07-04T12:11:21.545Z",
+    "updatedBy": "areeb",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62c2d83adc4fe744c5834033",
+    "gitBranchName": "master1",
+    "id": "WZsBmwQi6pcNoeKAMEx9Y",
+    "projectId": "62c2d4cbdedee63234074d98",
+    "attributes": {
+      "label": "one",
+      "variant": "body1",
+      "name": "Label",
+      "mandatory": false,
+      "layoutProperties": {
+        "label": { "//": "Use this class to style label component." },
+        "mainContainer": "label",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      }
+    },
+    "createdAt": "2022-07-04T12:11:21.545Z",
+    "createdBy": "areeb",
+    "events": [],
+    "icon": "FaFont",
+    "name": "Label",
+    "screenId": "nzZNSXkPwOPpQ079N-3qq",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20002",
+    "updatedAt": "2022-07-04T12:11:21.545Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   }
