@@ -67,7 +67,42 @@
           {
             "type": "column",
             "id": "6KkljXia8K_8-wP9StSW1",
-            "gridProps": [],
+            "gridProps": [
+              {
+                "id": "KnEVPVWq3lfnkCkQxS7K4",
+                "status": "ACTIVE",
+                "name": "Label",
+                "attributes": {
+                  "label": "master ",
+                  "variant": "body1",
+                  "name": "Label",
+                  "mandatory": false,
+                  "layoutProperties": {
+                    "label": {
+                      "//": "Use this class to style label component."
+                    },
+                    "mainContainer": "label",
+                    "xl": 12,
+                    "lg": 12,
+                    "md": 12,
+                    "sm": 12,
+                    "xs": 12
+                  }
+                },
+                "icon": "FaFont",
+                "group": "Form",
+                "type": "20002",
+                "updatedAt": "23-Aug-2021",
+                "createdAt": "23-Aug-2021",
+                "order": 15,
+                "version": "1.0.0",
+                "isLatest": true,
+                "projectType": "web",
+                "component": { "content": "Label", "type": "20002" },
+                "events": [],
+                "path": "0-0-0"
+              }
+            ],
             "layoutProperties": {
               "xl": 12,
               "lg": 12,
@@ -85,7 +120,7 @@
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "screen",
     "type": "10001",
-    "updatedAt": "2022-07-04T12:01:02.815Z",
+    "updatedAt": "2022-07-04T12:08:15.347Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -95,7 +130,20 @@
     "id": "5VEGZYLHJ8zc5XHmGokxl",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
-      "gridProps": [],
+      "gridProps": [
+        {
+          "layoutProperties": {
+            "xl": 12,
+            "lg": 12,
+            "md": 12,
+            "sm": 12,
+            "xs": 12
+          },
+          "componentId": "KnEVPVWq3lfnkCkQxS7K4",
+          "componentType": "20002",
+          "order": 1
+        }
+      ],
       "label": "Header",
       "layoutProperties": {
         "gridLayout": {
@@ -121,7 +169,7 @@
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "component",
     "type": "10001",
-    "updatedAt": "2022-07-04T12:01:02.815Z",
+    "updatedAt": "2022-07-04T12:08:15.347Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -154,7 +202,40 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-04T12:00:45.930Z",
+    "updatedAt": "2022-07-04T12:07:45.489Z",
+    "updatedBy": "areeb",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62c2d780dc4fe744c5833e44",
+    "gitBranchName": "master",
+    "id": "KnEVPVWq3lfnkCkQxS7K4",
+    "projectId": "62c2d4cbdedee63234074d98",
+    "attributes": {
+      "label": "master ",
+      "variant": "body1",
+      "name": "Label",
+      "mandatory": false,
+      "layoutProperties": {
+        "label": { "//": "Use this class to style label component." },
+        "mainContainer": "label",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      }
+    },
+    "createdAt": "2022-07-04T12:08:15.347Z",
+    "createdBy": "areeb",
+    "events": [],
+    "icon": "FaFont",
+    "name": "Label",
+    "screenId": "nzZNSXkPwOPpQ079N-3qq",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20002",
+    "updatedAt": "2022-07-04T12:08:15.347Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   }
