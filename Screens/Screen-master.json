@@ -85,7 +85,7 @@
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "screen",
     "type": "10001",
-    "updatedAt": "2022-07-04T11:57:38.782Z",
+    "updatedAt": "2022-07-04T12:01:02.815Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -121,7 +121,40 @@
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "component",
     "type": "10001",
-    "updatedAt": "2022-07-04T11:57:38.782Z",
+    "updatedAt": "2022-07-04T12:01:02.815Z",
+    "updatedBy": "areeb",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62c2d5bfdc4fe744c5833a67",
+    "gitBranchName": "master",
+    "id": "WTHgrlImT6uSjYAVU3s4n",
+    "projectId": "62c2d4cbdedee63234074d98",
+    "attributes": {
+      "label": "master1",
+      "variant": "body1",
+      "name": "Label",
+      "mandatory": false,
+      "layoutProperties": {
+        "label": { "//": "Use this class to style label component." },
+        "mainContainer": "label",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      }
+    },
+    "createdAt": "2022-07-04T12:00:45.930Z",
+    "createdBy": "areeb",
+    "events": [],
+    "icon": "FaFont",
+    "name": "Label",
+    "screenId": "nzZNSXkPwOPpQ079N-3qq",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20002",
+    "updatedAt": "2022-07-04T12:00:45.930Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   }
