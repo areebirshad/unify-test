@@ -14,7 +14,7 @@
     "closeableMessage": true,
     "theme": "",
     "securityConfigurations": [],
-    "updatedTimestamp": "2022-07-05T16:07:27+05:00",
+    "updatedTimestamp": "2022-07-05T17:54:02+05:00",
     "autoHideDuration": 10,
     "components": [],
     "triggers": [
@@ -31,7 +31,7 @@
             "command": {
               "responseHandler": [],
               "returns": [],
-              "_id": "62c41bbee5c17720a0973da1",
+              "_id": "62c43493e5c17720a0973f68",
               "attributes": {},
               "type": "3"
             }

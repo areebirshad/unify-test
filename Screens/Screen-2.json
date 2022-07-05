@@ -120,7 +120,7 @@
     "screenId": "mKK75KYc1_0Rue9VjgWJU",
     "subType": "screen",
     "type": "10001",
-    "updatedAt": "2022-07-05T11:08:38.151Z",
+    "updatedAt": "2022-07-05T12:54:06.273Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -169,7 +169,7 @@
     "screenId": "mKK75KYc1_0Rue9VjgWJU",
     "subType": "component",
     "type": "10001",
-    "updatedAt": "2022-07-05T11:08:38.151Z",
+    "updatedAt": "2022-07-05T12:54:06.273Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -202,7 +202,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-05T11:08:38.151Z",
+    "updatedAt": "2022-07-05T12:54:06.273Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   }
