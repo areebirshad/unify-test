@@ -14,7 +14,11 @@
     "closeableMessage": true,
     "theme": "",
     "securityConfigurations": [],
+<<<<<<< HEAD
     "updatedTimestamp": "2022-07-05T14:24:48+05:00",
+=======
+    "updatedTimestamp": "2022-07-05T14:15:24+05:00",
+>>>>>>> origin/master
     "autoHideDuration": 10,
     "components": [],
     "triggers": [
@@ -31,7 +35,11 @@
             "command": {
               "responseHandler": [],
               "returns": [],
+<<<<<<< HEAD
               "_id": "62c4037ee5c17720a0973908",
+=======
+              "_id": "62c40315e5c17720a09737ee",
+>>>>>>> origin/master
               "attributes": {},
               "type": "3"
             }
