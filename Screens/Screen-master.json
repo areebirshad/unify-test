@@ -154,7 +154,7 @@
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "screen",
     "type": "10001",
-    "updatedAt": "2022-07-05T11:05:32.894Z",
+    "updatedAt": "2022-07-05T11:08:04.733Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -215,7 +215,7 @@
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "component",
     "type": "10001",
-    "updatedAt": "2022-07-05T11:05:32.894Z",
+    "updatedAt": "2022-07-05T11:08:04.733Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -248,7 +248,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-05T09:25:14.449Z",
+    "updatedAt": "2022-07-05T11:08:04.733Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -281,7 +281,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-05T08:53:33.133Z",
+    "updatedAt": "2022-07-05T11:08:04.733Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -314,7 +314,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-05T09:14:07.489Z",
+    "updatedAt": "2022-07-05T11:08:04.733Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -347,7 +347,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-05T11:00:12.743Z",
+    "updatedAt": "2022-07-05T11:08:04.733Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -380,7 +380,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-05T11:05:32.894Z",
+    "updatedAt": "2022-07-05T11:08:04.733Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -413,7 +413,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-05T09:25:14.449Z",
+    "updatedAt": "2022-07-05T11:08:04.733Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -446,7 +446,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-05T11:05:32.894Z",
+    "updatedAt": "2022-07-05T11:08:04.733Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   }
