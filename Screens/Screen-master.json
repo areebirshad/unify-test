@@ -73,7 +73,7 @@
                 "status": "ACTIVE",
                 "name": "Label",
                 "attributes": {
-                  "label": "is master opq",
+                  "label": "is master opq uio",
                   "variant": "body1",
                   "name": "Label",
                   "mandatory": false,
@@ -154,7 +154,7 @@
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "screen",
     "type": "10001",
-    "updatedAt": "2022-07-06T08:48:22.983Z",
+    "updatedAt": "2022-07-06T08:49:49.547Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
@@ -215,7 +215,7 @@
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "component",
     "type": "10001",
-    "updatedAt": "2022-07-06T08:48:22.983Z",
+    "updatedAt": "2022-07-06T08:49:49.547Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
@@ -258,7 +258,7 @@
     "id": "KnEVPVWq3lfnkCkQxS7K4",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
-      "label": "is master opq",
+      "label": "is master opq uio",
       "variant": "body1",
       "name": "Label",
       "mandatory": false,
@@ -281,7 +281,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-06T08:48:22.983Z",
+    "updatedAt": "2022-07-06T08:49:49.547Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
@@ -446,7 +446,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-06T08:48:22.983Z",
+    "updatedAt": "2022-07-06T08:49:49.547Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   }
