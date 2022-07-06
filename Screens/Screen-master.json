@@ -1,7 +1,7 @@
 [
   {
-    "_id": "62c2d85a62219628d47627f6",
-    "gitBranchName": "master1",
+    "_id": "62c2d503dc4fe744c583385a",
+    "gitBranchName": "master",
     "id": "nzZNSXkPwOPpQ079N-3qq",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
@@ -21,7 +21,7 @@
         }
       ]
     },
-    "createdAt": "2022-07-04T12:08:58.028Z",
+    "createdAt": "2022-07-04T11:57:38.782Z",
     "createdBy": "areeb",
     "events": [],
     "layout": [
@@ -73,7 +73,7 @@
                 "status": "ACTIVE",
                 "name": "Label",
                 "attributes": {
-                  "label": "abcdefghij",
+                  "label": "12345567889",
                   "variant": "body1",
                   "name": "Label",
                   "mandatory": false,
@@ -154,13 +154,14 @@
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "screen",
     "type": "10001",
-    "updatedAt": "2022-07-06T08:52:05.393Z",
+
+    "updatedAt": "2022-07-06T08:50:55.227Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
-    "_id": "62c2d85a62219628d47627f7",
-    "gitBranchName": "master1",
+    "_id": "62c2d503dc4fe744c583385b",
+    "gitBranchName": "master",
     "id": "5VEGZYLHJ8zc5XHmGokxl",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
@@ -207,7 +208,7 @@
       "direction": "row",
       "name": "Grid layout"
     },
-    "createdAt": "2022-07-04T12:08:58.028Z",
+    "createdAt": "2022-07-04T11:57:38.782Z",
     "createdBy": "areeb",
     "events": [],
     "layout": null,
@@ -215,7 +216,8 @@
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "component",
     "type": "10001",
-    "updatedAt": "2022-07-06T08:52:05.393Z",
+
+    "updatedAt": "2022-07-06T08:50:55.227Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
@@ -321,6 +323,7 @@
   {
     "_id": "62c4032de5c17720a0973834",
     "gitBranchName": "master1",
+
     "id": "WTHgrlImT6uSjYAVU3s4n",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
@@ -338,7 +341,7 @@
         "xs": 12
       }
     },
-    "createdAt": "2022-07-05T09:23:57.593Z",
+    "createdAt": "2022-07-04T12:00:45.930Z",
     "createdBy": "areeb",
     "events": [],
     "icon": "FaFont",
@@ -347,13 +350,14 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-06T08:51:52.326Z",
+
+    "updatedAt": "2022-07-06T08:50:34.608Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
-    "_id": "62c4032de5c17720a0973835",
-    "gitBranchName": "master1",
+    "_id": "62c2d780dc4fe744c5833e44",
+    "gitBranchName": "master",
     "id": "KnEVPVWq3lfnkCkQxS7K4",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
@@ -371,7 +375,7 @@
         "xs": 12
       }
     },
-    "createdAt": "2022-07-05T09:23:57.593Z",
+    "createdAt": "2022-07-04T12:08:15.347Z",
     "createdBy": "areeb",
     "events": [],
     "icon": "FaFont",
@@ -380,13 +384,113 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-06T08:52:05.393Z",
+
+    "updatedAt": "2022-07-06T08:50:55.227Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
-    "_id": "62c402cbdc4fe744c5844d0b",
-    "gitBranchName": "master1",
+    "_id": "62c41c11e5c17720a0973e3a",
+    "gitBranchName": "master",
+    "id": "WZsBmwQi6pcNoeKAMEx9Y",
+    "projectId": "62c2d4cbdedee63234074d98",
+    "attributes": {
+      "label": "one",
+      "variant": "body1",
+      "name": "Label",
+      "mandatory": false,
+      "layoutProperties": {
+        "label": { "//": "Use this class to style label component." },
+        "mainContainer": "label",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      }
+    },
+    "createdAt": "2022-07-05T11:10:09.411Z",
+    "createdBy": "areeb",
+    "events": [],
+    "icon": "FaFont",
+    "name": "Label",
+    "screenId": "nzZNSXkPwOPpQ079N-3qq",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20002",
+    "updatedAt": "2022-07-06T08:50:34.608Z",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62c41c11e5c17720a0973e3b",
+    "gitBranchName": "master",
+    "id": "X_UBbaL25dKRrpRDCC5UQ",
+    "projectId": "62c2d4cbdedee63234074d98",
+    "attributes": {
+      "label": "two",
+      "variant": "body1",
+      "name": "Label",
+      "mandatory": false,
+      "layoutProperties": {
+        "label": { "//": "Use this class to style label component." },
+        "mainContainer": "label",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      }
+    },
+    "createdAt": "2022-07-05T11:10:09.411Z",
+    "createdBy": "areeb",
+    "events": [],
+    "icon": "FaFont",
+    "name": "Label",
+    "screenId": "nzZNSXkPwOPpQ079N-3qq",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20002",
+    "updatedAt": "2022-07-06T08:50:34.608Z",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62c41c11e5c17720a0973e3c",
+    "gitBranchName": "master",
+    "id": "DJbGtf42aFZmamKMmwueI",
+    "projectId": "62c2d4cbdedee63234074d98",
+    "attributes": {
+      "label": "two",
+      "variant": "body1",
+      "name": "Label",
+      "mandatory": false,
+      "layoutProperties": {
+        "label": { "//": "Use this class to style label component." },
+        "mainContainer": "label",
+        "xl": 12,
+        "lg": 12,
+        "md": 12,
+        "sm": 12,
+        "xs": 12
+      }
+    },
+    "createdAt": "2022-07-05T11:10:09.411Z",
+    "createdBy": "areeb",
+    "events": [],
+    "icon": "FaFont",
+    "name": "Label",
+    "screenId": "nzZNSXkPwOPpQ079N-3qq",
+    "status": "ACTIVE",
+    "subType": "component",
+    "type": "20002",
+    "updatedAt": "2022-07-06T08:50:34.608Z",
+    "updatedBy": "talib",
+    "version": "1.0.0"
+  },
+  {
+    "_id": "62c41c11e5c17720a0973e3f",
+    "gitBranchName": "master",
     "id": "NPGd0BjgKijpYcntW3enM",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
@@ -404,7 +508,7 @@
         "xs": 12
       }
     },
-    "createdAt": "2022-07-05T09:25:14.449Z",
+    "createdAt": "2022-07-05T11:10:09.411Z",
     "createdBy": "areeb",
     "events": [],
     "icon": "FaFont",
@@ -413,13 +517,14 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-06T08:51:52.326Z",
+
+    "updatedAt": "2022-07-06T08:50:34.608Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
-    "_id": "62c41a4edc4fe744c58466a9",
-    "gitBranchName": "master1",
+    "_id": "62c41c11e5c17720a0973e40",
+    "gitBranchName": "master",
     "id": "dL5Kx6bZkhtM4wXUurH8S",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
@@ -437,7 +542,7 @@
         "xs": 12
       }
     },
-    "createdAt": "2022-07-05T11:05:32.894Z",
+    "createdAt": "2022-07-05T11:10:09.411Z",
     "createdBy": "areeb",
     "events": [],
     "icon": "FaFont",
@@ -446,7 +551,8 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-06T08:52:05.393Z",
+
+    "updatedAt": "2022-07-06T08:50:55.227Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   }
