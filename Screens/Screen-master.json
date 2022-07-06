@@ -73,7 +73,7 @@
                 "status": "ACTIVE",
                 "name": "Label",
                 "attributes": {
-                  "label": "master master 1",
+                  "label": "is master",
                   "variant": "body1",
                   "name": "Label",
                   "mandatory": false,
@@ -107,7 +107,7 @@
                 "status": "ACTIVE",
                 "name": "Label",
                 "attributes": {
-                  "label": "21dd",
+                  "label": "21",
                   "variant": "body1",
                   "name": "Label",
                   "mandatory": false,
@@ -154,8 +154,7 @@
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "screen",
     "type": "10001",
-
-    "updatedAt": "2022-07-06T08:01:19.343Z",
+    "updatedAt": "2022-07-06T08:04:46.181Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
@@ -216,114 +215,13 @@
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "component",
     "type": "10001",
-
-    "updatedAt": "2022-07-06T08:01:19.343Z",
+    "updatedAt": "2022-07-06T08:04:46.181Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
-    "_id": "62c2d83adc4fe744c5834033",
-    "gitBranchName": "master1",
-    "id": "WZsBmwQi6pcNoeKAMEx9Y",
-    "projectId": "62c2d4cbdedee63234074d98",
-    "attributes": {
-      "label": "one",
-      "variant": "body1",
-      "name": "Label",
-      "mandatory": false,
-      "layoutProperties": {
-        "label": { "//": "Use this class to style label component." },
-        "mainContainer": "label",
-        "xl": 12,
-        "lg": 12,
-        "md": 12,
-        "sm": 12,
-        "xs": 12
-      }
-    },
-    "createdAt": "2022-07-04T12:11:21.545Z",
-    "createdBy": "areeb",
-    "events": [],
-    "icon": "FaFont",
-    "name": "Label",
-    "screenId": "nzZNSXkPwOPpQ079N-3qq",
-    "status": "ACTIVE",
-    "subType": "component",
-    "type": "20002",
-    "updatedAt": "2022-07-06T07:56:36.946Z",
-    "updatedBy": "talib",
-    "version": "1.0.0"
-  },
-  {
-    "_id": "62c3fb5edc4fe744c5843fae",
-    "gitBranchName": "master1",
-    "id": "X_UBbaL25dKRrpRDCC5UQ",
-    "projectId": "62c2d4cbdedee63234074d98",
-    "attributes": {
-      "label": "two",
-      "variant": "body1",
-      "name": "Label",
-      "mandatory": false,
-      "layoutProperties": {
-        "label": { "//": "Use this class to style label component." },
-        "mainContainer": "label",
-        "xl": 12,
-        "lg": 12,
-        "md": 12,
-        "sm": 12,
-        "xs": 12
-      }
-    },
-    "createdAt": "2022-07-05T08:53:33.133Z",
-    "createdBy": "areeb",
-    "events": [],
-    "icon": "FaFont",
-    "name": "Label",
-    "screenId": "nzZNSXkPwOPpQ079N-3qq",
-    "status": "ACTIVE",
-    "subType": "component",
-    "type": "20002",
-    "updatedAt": "2022-07-06T07:56:36.946Z",
-    "updatedBy": "talib",
-    "version": "1.0.0"
-  },
-  {
-    "_id": "62c40030dc4fe744c5844679",
-    "gitBranchName": "master1",
-    "id": "DJbGtf42aFZmamKMmwueI",
-    "projectId": "62c2d4cbdedee63234074d98",
-    "attributes": {
-      "label": "two",
-      "variant": "body1",
-      "name": "Label",
-      "mandatory": false,
-      "layoutProperties": {
-        "label": { "//": "Use this class to style label component." },
-        "mainContainer": "label",
-        "xl": 12,
-        "lg": 12,
-        "md": 12,
-        "sm": 12,
-        "xs": 12
-      }
-    },
-    "createdAt": "2022-07-05T09:14:07.489Z",
-    "createdBy": "areeb",
-    "events": [],
-    "icon": "FaFont",
-    "name": "Label",
-    "screenId": "nzZNSXkPwOPpQ079N-3qq",
-    "status": "ACTIVE",
-    "subType": "component",
-    "type": "20002",
-    "updatedAt": "2022-07-06T07:56:36.946Z",
-    "updatedBy": "talib",
-    "version": "1.0.0"
-  },
-  {
-    "_id": "62c4032de5c17720a0973834",
-    "gitBranchName": "master1",
-
+    "_id": "62c2d5bfdc4fe744c5833a67",
+    "gitBranchName": "master",
     "id": "WTHgrlImT6uSjYAVU3s4n",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
@@ -352,7 +250,6 @@
     "type": "20002",
     "updatedAt": "2022-07-05T12:55:38.987Z",
     "updatedBy": "areeb",
-
     "version": "1.0.0"
   },
   {
@@ -361,7 +258,7 @@
     "id": "KnEVPVWq3lfnkCkQxS7K4",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
-      "label": "master master 1",
+      "label": "is master",
       "variant": "body1",
       "name": "Label",
       "mandatory": false,
@@ -419,7 +316,6 @@
     "type": "20002",
     "updatedAt": "2022-07-05T12:55:38.987Z",
     "updatedBy": "areeb",
-
     "version": "1.0.0"
   },
   {
@@ -517,9 +413,8 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-
-    "updatedAt": "2022-07-06T07:56:36.946Z",
-    "updatedBy": "talib",
+    "updatedAt": "2022-07-05T12:55:38.987Z",
+    "updatedBy": "areeb",
     "version": "1.0.0"
   },
   {
@@ -528,7 +423,7 @@
     "id": "dL5Kx6bZkhtM4wXUurH8S",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
-      "label": "21dd",
+      "label": "21",
       "variant": "body1",
       "name": "Label",
       "mandatory": false,
@@ -551,8 +446,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-
-    "updatedAt": "2022-07-06T08:01:19.343Z",
+    "updatedAt": "2022-07-06T08:04:46.181Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   }
