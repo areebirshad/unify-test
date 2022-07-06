@@ -120,8 +120,7 @@
     "screenId": "mKK75KYc1_0Rue9VjgWJU",
     "subType": "screen",
     "type": "10001",
-
-    "updatedAt": "2022-07-06T08:24:40.224Z",
+    "updatedAt": "2022-07-06T08:25:49.656Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
@@ -170,8 +169,7 @@
     "screenId": "mKK75KYc1_0Rue9VjgWJU",
     "subType": "component",
     "type": "10001",
-
-    "updatedAt": "2022-07-06T08:24:40.224Z",
+    "updatedAt": "2022-07-06T08:25:49.656Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
@@ -204,8 +202,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-
-    "updatedAt": "2022-07-06T08:24:40.224Z",
+    "updatedAt": "2022-07-06T08:25:49.656Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   }

@@ -1,25 +1,24 @@
 {
   "createdBy": "system",
   "updatedBy": "system",
-  "_id": "623189e39190f7b17196edab",
-  "id": "C9VAY5AImRfVpeNy7pzf6",
-  "name": "Wizard Layout Move to step",
-  "projectType": "web",
+  "_id": "6226c90ad9a8405e7a6a05ac",
+  "id": "EozOaoMh2SOG67H76DpLS",
+  "name": "Wizard Layout initialize",
+  "canRead": false,
   "services": [
     {
-      "_id": "61dd1cc511bed557b4cb0c45",
       "type": "10",
+      "//": "declare",
       "command": {
         "responseHandler": [],
         "returns": [],
-        "_id": "61dd1cc511bed557b4cb0c46",
+        "_id": "62c547214b334b3a30f58b1d",
         "attributes": {},
-        "type": "4"
+        "type": "3"
       }
     }
   ],
-  "createdAt": "11-Jan-2022",
-  "updatedAt": "11-Jan-2022",
-  "__v": 0,
-  "canRead": false
+  "projectType": "web",
+  "createdAt": "N/A",
+  "updatedAt": "N/A"
 }

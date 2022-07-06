@@ -1,9 +1,9 @@
 {
   "createdBy": "system",
   "updatedBy": "system",
-  "_id": "623188a69190f7b17196eda8",
-  "id": "Bt9t0w5XUqa6DKF-Egsy3",
-  "name": "Wizard Layout Next",
+  "_id": "623189e39190f7b17196edab",
+  "id": "C9VAY5AImRfVpeNy7pzf6",
+  "name": "Wizard Layout Move to step",
   "projectType": "web",
   "services": [
     {
@@ -14,7 +14,7 @@
         "returns": [],
         "_id": "61dd1cc511bed557b4cb0c46",
         "attributes": {},
-        "type": "1"
+        "type": "4"
       }
     }
   ],
