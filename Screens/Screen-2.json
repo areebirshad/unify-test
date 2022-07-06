@@ -1,7 +1,7 @@
 [
   {
-    "_id": "62c41c11e5c17720a0973e35",
-    "gitBranchName": "master",
+    "_id": "62c41b07dc4fe744c58468d6",
+    "gitBranchName": "master1",
     "id": "mKK75KYc1_0Rue9VjgWJU",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
@@ -21,7 +21,7 @@
         }
       ]
     },
-    "createdAt": "2022-07-05T11:10:09.411Z",
+    "createdAt": "2022-07-05T11:08:38.151Z",
     "createdBy": "areeb",
     "events": [],
     "layout": [
@@ -120,14 +120,12 @@
     "screenId": "mKK75KYc1_0Rue9VjgWJU",
     "subType": "screen",
     "type": "10001",
-
-    "updatedAt": "2022-07-06T08:50:34.608Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
-    "_id": "62c41c11e5c17720a0973e36",
-    "gitBranchName": "master",
+    "_id": "62c41b07dc4fe744c58468d7",
+    "gitBranchName": "master1",
     "id": "jIw1LSpuDfkqe3KicKQpF",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
@@ -162,7 +160,7 @@
       "direction": "row",
       "name": "Grid layout"
     },
-    "createdAt": "2022-07-05T11:10:09.411Z",
+    "createdAt": "2022-07-05T11:08:38.151Z",
     "createdBy": "areeb",
     "events": [],
     "layout": null,
@@ -170,14 +168,12 @@
     "screenId": "mKK75KYc1_0Rue9VjgWJU",
     "subType": "component",
     "type": "10001",
-
-    "updatedAt": "2022-07-06T08:50:34.608Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
-    "_id": "62c41c11e5c17720a0973e37",
-    "gitBranchName": "master",
+    "_id": "62c41b07dc4fe744c58468d8",
+    "gitBranchName": "master1",
     "id": "NNshgLWBo3ycrpvJZ6DHl",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
@@ -195,7 +191,7 @@
         "xs": 12
       }
     },
-    "createdAt": "2022-07-05T11:10:09.411Z",
+    "createdAt": "2022-07-05T11:08:38.151Z",
     "createdBy": "areeb",
     "events": [],
     "icon": "FaFont",
@@ -204,8 +200,6 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-
-    "updatedAt": "2022-07-06T08:50:34.608Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   }
