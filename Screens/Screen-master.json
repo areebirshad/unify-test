@@ -73,7 +73,7 @@
                 "status": "ACTIVE",
                 "name": "Label",
                 "attributes": {
-                  "label": "master master 1",
+                  "label": "is master abc",
                   "variant": "body1",
                   "name": "Label",
                   "mandatory": false,
@@ -107,7 +107,7 @@
                 "status": "ACTIVE",
                 "name": "Label",
                 "attributes": {
-                  "label": "21dd",
+                  "label": "21",
                   "variant": "body1",
                   "name": "Label",
                   "mandatory": false,
@@ -154,7 +154,7 @@
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "screen",
     "type": "10001",
-    "updatedAt": "2022-07-06T08:01:19.343Z",
+    "updatedAt": "2022-07-06T08:25:21.749Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
@@ -215,7 +215,7 @@
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "component",
     "type": "10001",
-    "updatedAt": "2022-07-06T08:01:19.343Z",
+    "updatedAt": "2022-07-06T08:25:21.749Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
@@ -248,7 +248,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-06T07:56:36.946Z",
+    "updatedAt": "2022-07-06T08:24:40.224Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
@@ -281,7 +281,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-06T07:56:36.946Z",
+    "updatedAt": "2022-07-06T08:24:40.224Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
@@ -314,7 +314,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-06T07:56:36.946Z",
+    "updatedAt": "2022-07-06T08:24:40.224Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
@@ -347,7 +347,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-06T07:56:36.946Z",
+    "updatedAt": "2022-07-06T08:24:40.224Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
@@ -357,7 +357,7 @@
     "id": "KnEVPVWq3lfnkCkQxS7K4",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
-      "label": "master master 1",
+      "label": "is master abc",
       "variant": "body1",
       "name": "Label",
       "mandatory": false,
@@ -380,7 +380,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-06T08:01:19.343Z",
+    "updatedAt": "2022-07-06T08:25:21.749Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
@@ -413,7 +413,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-06T07:56:36.946Z",
+    "updatedAt": "2022-07-06T08:24:40.224Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   },
@@ -423,7 +423,7 @@
     "id": "dL5Kx6bZkhtM4wXUurH8S",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
-      "label": "21dd",
+      "label": "21",
       "variant": "body1",
       "name": "Label",
       "mandatory": false,
@@ -446,7 +446,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-06T08:01:19.343Z",
+    "updatedAt": "2022-07-06T08:25:21.749Z",
     "updatedBy": "talib",
     "version": "1.0.0"
   }
