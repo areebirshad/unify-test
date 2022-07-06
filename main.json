@@ -7,6 +7,7 @@
     "version": "1.0.0",
     "mainComponentId": "nzZNSXkPwOPpQ079N-3qq",
     "locale": "en",
+    "appMode": "dev",
     "globalErrorType": "INLINE",
     "showWidgetError": true,
     "showWidgetSuccess": true,
@@ -14,7 +15,7 @@
     "closeableMessage": true,
     "theme": "",
     "securityConfigurations": [],
-    "updatedTimestamp": "2022-07-05T17:54:02+05:00",
+    "updatedTimestamp": "2022-07-06T12:40:53+05:00",
     "autoHideDuration": 10,
     "components": [],
     "triggers": [
@@ -31,7 +32,7 @@
             "command": {
               "responseHandler": [],
               "returns": [],
-              "_id": "62c43493e5c17720a0973f68",
+              "_id": "62c53caa919454260446f5e8",
               "attributes": {},
               "type": "3"
             }

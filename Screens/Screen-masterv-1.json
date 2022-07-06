@@ -73,7 +73,7 @@
                 "status": "ACTIVE",
                 "name": "Label",
                 "attributes": {
-                  "label": "master ",
+                  "label": "master 1",
                   "variant": "body1",
                   "name": "Label",
                   "mandatory": false,
@@ -107,7 +107,7 @@
                 "status": "ACTIVE",
                 "name": "Label",
                 "attributes": {
-                  "label": "2 masteer 1",
+                  "label": "21",
                   "variant": "body1",
                   "name": "Label",
                   "mandatory": false,
@@ -150,12 +150,12 @@
         "layoutProperties": { "lg": 12, "md": 12, "sm": 12, "xs": 12 }
       }
     ],
-    "name": "Screen master",
+    "name": "Screen masterv 1",
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "screen",
     "type": "10001",
-    "updatedAt": "2022-07-05T12:54:37.572Z",
-    "updatedBy": "areeb",
+    "updatedAt": "2022-07-06T07:41:20.855Z",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -215,8 +215,8 @@
     "screenId": "nzZNSXkPwOPpQ079N-3qq",
     "subType": "component",
     "type": "10001",
-    "updatedAt": "2022-07-05T12:54:37.572Z",
-    "updatedBy": "areeb",
+    "updatedAt": "2022-07-06T07:41:20.855Z",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -248,7 +248,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-05T12:54:06.273Z",
+    "updatedAt": "2022-07-05T12:55:23.250Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -281,7 +281,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-05T12:54:06.273Z",
+    "updatedAt": "2022-07-05T12:55:23.250Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -314,7 +314,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-05T12:54:06.273Z",
+    "updatedAt": "2022-07-05T12:55:23.250Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -347,7 +347,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-05T12:54:06.273Z",
+    "updatedAt": "2022-07-05T12:55:23.250Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -357,7 +357,7 @@
     "id": "KnEVPVWq3lfnkCkQxS7K4",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
-      "label": "master ",
+      "label": "master 1",
       "variant": "body1",
       "name": "Label",
       "mandatory": false,
@@ -380,8 +380,8 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-05T12:54:37.572Z",
-    "updatedBy": "areeb",
+    "updatedAt": "2022-07-06T07:41:20.855Z",
+    "updatedBy": "talib",
     "version": "1.0.0"
   },
   {
@@ -413,7 +413,7 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-05T12:54:06.273Z",
+    "updatedAt": "2022-07-05T12:55:23.250Z",
     "updatedBy": "areeb",
     "version": "1.0.0"
   },
@@ -423,7 +423,7 @@
     "id": "dL5Kx6bZkhtM4wXUurH8S",
     "projectId": "62c2d4cbdedee63234074d98",
     "attributes": {
-      "label": "2 masteer 1",
+      "label": "21",
       "variant": "body1",
       "name": "Label",
       "mandatory": false,
@@ -446,8 +446,8 @@
     "status": "ACTIVE",
     "subType": "component",
     "type": "20002",
-    "updatedAt": "2022-07-05T12:54:37.572Z",
-    "updatedBy": "areeb",
+    "updatedAt": "2022-07-06T07:41:20.855Z",
+    "updatedBy": "talib",
     "version": "1.0.0"
   }
 ]
